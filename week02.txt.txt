@@ -1,0 +1,12 @@
+week02
+-linux command : ls ls -al, pwd,cd, gir cd, echo "~~" >> README.md cat README.md 
+-git command
+git init
+git statue
+git add week01.txt
+git config --global user.email"your@example.com"
+git config --global user.name"your name"
+git commit -m "v0"
+git log
+git checkout - 
+git branch -M main
