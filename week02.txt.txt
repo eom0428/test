@@ -10,3 +10,6 @@ git commit -m "v0"
 git log
 git checkout - 
 git branch -M main
+git remote add origin https://
+remote -v
+ git push -u origin main
